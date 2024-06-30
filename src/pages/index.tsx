@@ -6,8 +6,8 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
    <div>
-    hi there
-    <VideoCard/>
+    <img src="/photo.jpg" alt="photo"></img>
+    
    </div>
   );
 }
